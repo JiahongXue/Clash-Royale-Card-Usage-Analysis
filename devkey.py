@@ -1,1 +1,0 @@
-SECRETDEVKEY = "foo"
