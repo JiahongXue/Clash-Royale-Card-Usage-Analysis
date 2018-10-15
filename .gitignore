@@ -1,6 +1,9 @@
 # API Key
 devkey.py
 config.ini
+credentials.json
+token.json
+quickstart.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
